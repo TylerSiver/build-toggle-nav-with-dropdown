@@ -164,6 +164,14 @@ nav {
         border-radius: 5px;
     }
 
+    .main-menu li {
+        border: none;
+    }
+
+    .dropdown-menu li {
+        border-bottom: 1px solid #e3eaf3;
+    }
+
 
 }
 /* TO DO BEFORE HANDING IN */
